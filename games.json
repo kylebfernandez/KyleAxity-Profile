@@ -1,0 +1,121 @@
+[
+  {
+    "id": "league",
+    "title": "League of Legends",
+    "url": "https://www.leagueoflegends.com/en-us/",
+    "image": "assets/games/league.jpg",
+    "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+  },
+  {
+    "id": "valorant",
+    "title": "VALORANT",
+    "url": "https://playvalorant.com/en-us/",
+    "image": "assets/games/valorant.jpg",
+    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/083baed63d306ee9ba41df4971ac0f6bb0222032-1920x1080.jpg"
+  },
+  {
+    "id": "vrchat",
+    "title": "VRChat",
+    "url": "https://store.steampowered.com/app/438100/",
+    "image": "assets/games/vrchat.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/library_600x900_2x.jpg"
+  },
+  {
+    "id": "hogwarts",
+    "title": "Hogwarts Legacy",
+    "url": "https://store.steampowered.com/app/990080/",
+    "image": "assets/games/hogwarts.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900_2x.jpg"
+  },
+  {
+    "id": "lethal",
+    "title": "Lethal Company",
+    "url": "https://store.steampowered.com/app/1966720/",
+    "image": "assets/games/lethal.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/library_600x900_2x.jpg"
+  },
+  {
+    "id": "peak",
+    "title": "PEAK",
+    "url": "https://store.steampowered.com/app/3527290/",
+    "image": "assets/games/peak.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718"
+  },
+  {
+    "id": "siege",
+    "title": "Rainbow Six Siege",
+    "url": "https://store.steampowered.com/app/359550/",
+    "image": "assets/games/siege.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/library_600x900_2x.jpg"
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "url": "https://www.minecraft.net/en-us/about-minecraft",
+    "image": "assets/games/minecraft.jpg",
+    "source": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/About-Minecraft_Featured-Image-0_570x321.jpg"
+  },
+  {
+    "id": "gta",
+    "title": "Grand Theft Auto V",
+    "url": "https://store.steampowered.com/app/3240220/",
+    "image": "assets/games/gta.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/library_600x900_2x.jpg"
+  },
+  {
+    "id": "arc",
+    "title": "ARC Raiders",
+    "url": "https://store.steampowered.com/app/1808500/",
+    "image": "assets/games/arc.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/library_600x900_2x.jpg"
+  },
+  {
+    "id": "ready",
+    "title": "Ready or Not",
+    "url": "https://store.steampowered.com/app/1144200/",
+    "image": "assets/games/ready.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900_2x.jpg"
+  },
+  {
+    "id": "tarkov",
+    "title": "Escape from Tarkov",
+    "url": "https://store.steampowered.com/app/3932890/",
+    "image": "assets/games/tarkov.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094"
+  },
+  {
+    "id": "finals",
+    "title": "THE FINALS",
+    "url": "https://store.steampowered.com/app/2073850/",
+    "image": "assets/games/finals.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/library_600x900_2x.jpg"
+  },
+  {
+    "id": "battlefield",
+    "title": "Battlefield 6",
+    "url": "https://store.steampowered.com/app/2807960/",
+    "image": "assets/games/battlefield.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/library_600x900_2x.jpg"
+  },
+  {
+    "id": "rdr",
+    "title": "Red Dead Redemption 2",
+    "url": "https://store.steampowered.com/app/1174180/",
+    "image": "assets/games/rdr.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900_2x.jpg"
+  },
+  {
+    "id": "zzz",
+    "title": "Zenless Zone Zero",
+    "url": "https://store.steampowered.com/app/4162040/",
+    "image": "assets/games/zzz.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/22b56d833834d90674b30498f78e0839e48792db/header_alt_assets_2.jpg?t=1792533213"
+  },
+  {
+    "id": "once",
+    "title": "Once Human",
+    "url": "https://store.steampowered.com/app/2139460/",
+    "image": "assets/games/once.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/library_600x900_2x.jpg"
+  }
+]
