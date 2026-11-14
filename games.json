@@ -4,14 +4,14 @@
     "title": "League of Legends",
     "url": "https://www.leagueoflegends.com/en-us/",
     "image": "assets/games/league.jpg",
-    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/565197caf987af4e4da307df6e2b235a28714736-837x469.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
+    "source": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobpn7.jpg"
   },
   {
     "id": "valorant",
     "title": "VALORANT",
     "url": "https://playvalorant.com/en-us/",
     "image": "assets/games/valorant.jpg",
-    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
+    "source": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobqao.jpg"
   },
   {
     "id": "vrchat",
@@ -39,7 +39,7 @@
     "title": "PEAK",
     "url": "https://store.steampowered.com/app/3527290/",
     "image": "assets/games/peak.jpg",
-    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718"
+    "source": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coa1i1.jpg"
   },
   {
     "id": "siege",
@@ -53,7 +53,7 @@
     "title": "Minecraft",
     "url": "https://www.minecraft.net/en-us/about-minecraft",
     "image": "assets/games/minecraft.jpg",
-    "source": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/About-Minecraft_Featured-Image-0_570x321.jpg"
+    "source": "https://i.gadgets360cdn.com/products/large/m-1000x1500-1649140867.jpg"
   },
   {
     "id": "gta",
@@ -81,7 +81,7 @@
     "title": "Escape from Tarkov",
     "url": "https://store.steampowered.com/app/3932890/",
     "image": "assets/games/tarkov.jpg",
-    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094"
+    "source": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3932890/b4409c0f695f192142286b037d9f6d5603ae08d3/library_capsule_2x.jpg"
   },
   {
     "id": "finals",
@@ -95,7 +95,7 @@
     "title": "Battlefield 6",
     "url": "https://store.steampowered.com/app/2807960/",
     "image": "assets/games/battlefield.jpg",
-    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/library_600x900_2x.jpg"
+    "source": "https://storage-asset.msi.com/event/2025/AU/intel-holiday-bundle/images/kv-img.jpg"
   },
   {
     "id": "rdr",
@@ -109,7 +109,7 @@
     "title": "Zenless Zone Zero",
     "url": "https://store.steampowered.com/app/4162040/",
     "image": "assets/games/zzz.jpg",
-    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/22b56d833834d90674b30498f78e0839e48792db/header_alt_assets_2.jpg?t=1792533213"
+    "source": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8efw.jpg"
   },
   {
     "id": "once",
