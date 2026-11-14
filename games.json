@@ -4,14 +4,14 @@
     "title": "League of Legends",
     "url": "https://www.leagueoflegends.com/en-us/",
     "image": "assets/games/league.jpg",
-    "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/565197caf987af4e4da307df6e2b235a28714736-837x469.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
   },
   {
     "id": "valorant",
     "title": "VALORANT",
     "url": "https://playvalorant.com/en-us/",
     "image": "assets/games/valorant.jpg",
-    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/083baed63d306ee9ba41df4971ac0f6bb0222032-1920x1080.jpg"
+    "source": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
   },
   {
     "id": "vrchat",
