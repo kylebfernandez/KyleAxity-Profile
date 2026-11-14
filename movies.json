@@ -1,0 +1,273 @@
+[
+  {
+    "category": "mcu-movies",
+    "title": "Iron Man",
+    "year": 2008,
+    "url": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-0.jpg",
+    "rank": "S"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "The Avengers",
+    "year": 2012,
+    "url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-1.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "url": "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier",
+    "source": "https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-2.jpg",
+    "rank": "A"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-3.jpg",
+    "rank": "A"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-4.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-5.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-6.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-movies",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "url": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-7.jpg"
+  },
+  {
+    "category": "mcu-series",
+    "title": "WandaVision",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/WandaVision",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738028.jpg",
+    "image": "assets/movies/title-8.jpg",
+    "rank": "S"
+  },
+  {
+    "category": "mcu-series",
+    "title": "Loki",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/Loki_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/478/1195717.jpg",
+    "image": "assets/movies/title-9.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-series",
+    "title": "Moon Knight",
+    "year": 2022,
+    "url": "https://en.wikipedia.org/wiki/Moon_Knight_(miniseries)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/407/1019370.jpg",
+    "image": "assets/movies/title-10.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-series",
+    "title": "Hawkeye",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/Hawkeye_(miniseries)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/383/959105.jpg",
+    "image": "assets/movies/title-11.jpg",
+    "rank": "Favourite"
+  },
+  {
+    "category": "mcu-series",
+    "title": "Ms. Marvel",
+    "year": 2022,
+    "url": "https://en.wikipedia.org/wiki/Ms._Marvel_(miniseries)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/405/1013952.jpg",
+    "image": "assets/movies/title-12.jpg",
+    "rank": "B"
+  },
+  {
+    "category": "mcu-series",
+    "title": "The Falcon and the Winter Soldier",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/295/739854.jpg",
+    "image": "assets/movies/title-13.jpg",
+    "rank": "B"
+  },
+  {
+    "category": "mcu-series",
+    "title": "She-Hulk: Attorney at Law",
+    "year": 2022,
+    "url": "https://en.wikipedia.org/wiki/She-Hulk:_Attorney_at_Law",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/486/1215646.jpg",
+    "image": "assets/movies/title-14.jpg",
+    "rank": "C"
+  },
+  {
+    "category": "mcu-series",
+    "title": "Secret Invasion",
+    "year": 2023,
+    "url": "https://en.wikipedia.org/wiki/Secret_Invasion_(miniseries)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/465/1163819.jpg",
+    "image": "assets/movies/title-15.jpg",
+    "rank": "C"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Man of Steel",
+    "year": 2013,
+    "url": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/5/50/Man_of_Steel_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-16.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "The Flash",
+    "year": 2014,
+    "url": "https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/448/1121792.jpg",
+    "image": "assets/movies/title-24.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "Arrow",
+    "year": 2012,
+    "url": "https://en.wikipedia.org/wiki/Arrow_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
+    "image": "assets/movies/title-25.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "Supergirl",
+    "year": 2015,
+    "url": "https://en.wikipedia.org/wiki/Supergirl_(TV_series)",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Supergirl_%28Arrowverse_television_series%29_logo.svg/500px-Supergirl_%28Arrowverse_television_series%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "assets/movies/title-26.png"
+  },
+  {
+    "category": "dc-series",
+    "title": "Superman & Lois",
+    "year": 2021,
+    "url": "https://en.wikipedia.org/wiki/Superman_%26_Lois",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/545/1362617.jpg",
+    "image": "assets/movies/title-27.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "Peacemaker",
+    "year": 2022,
+    "url": "https://en.wikipedia.org/wiki/Peacemaker_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1466413.jpg",
+    "image": "assets/movies/title-28.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "Doom Patrol",
+    "year": 2019,
+    "url": "https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/481/1204053.jpg",
+    "image": "assets/movies/title-29.jpg"
+  },
+  {
+    "category": "dc-series",
+    "title": "Titans",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Titans_(2018_TV_series)",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Titans_%282018_TV_series%29_logos.svg/500px-Titans_%282018_TV_series%29_logos.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "assets/movies/title-30.png"
+  },
+  {
+    "category": "dc-series",
+    "title": "The Penguin",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/The_Penguin_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/536/1340329.jpg",
+    "image": "assets/movies/title-31.jpg"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Aquaman and the Lost Kingdom",
+    "year": 2023,
+    "image": "assets/movies/dc-aquaman-and-the-lost-kingdom.jpg",
+    "source": "https://static.dc.com/2023-12/Movies_Thumb_AquamanTheLostKingdom_1222.jpg?w=400",
+    "url": "https://www.dc.com/movies/aquaman-and-the-lost-kingdom-2023"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Blue Beetle",
+    "year": 2023,
+    "image": "assets/movies/dc-blue-beetle.jpg",
+    "source": "https://static.dc.com/2023-07/Movies_Thumb_BlueBeetle_Txtd_Main_1sht_REV_BLBTL.jpg?w=400",
+    "url": "https://www.dc.com/movies/blue-beetle-2023"
+  },
+  {
+    "category": "dc-movies",
+    "title": "The Flash",
+    "year": 2023,
+    "image": "assets/movies/dc-the-flash.jpg",
+    "source": "https://static.dc.com/2023-05/Movies_Thumb_TheFlash.jpg?w=400",
+    "url": "https://www.dc.com/movies/the-flash-2023"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Black Adam",
+    "year": 2022,
+    "image": "assets/movies/dc-black-adam.jpg",
+    "source": "https://static.dc.com/2023-02/Movies-Thumb_BlackAdam_1012_63478cad000886.65212101.jpg?w=400",
+    "url": "https://www.dc.com/movies/black-adam"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Shazam!",
+    "year": 2019,
+    "image": "assets/movies/dc-shazam-.jpg",
+    "source": "https://static.dc.com/2023-02/Movies-Thumb_Shazam20190313_5c8934a6c8f4c0.03036534.jpg?w=400",
+    "url": "https://www.dc.com/movies/shazam"
+  },
+  {
+    "category": "dc-movies",
+    "title": "The Batman",
+    "year": 2022,
+    "image": "assets/movies/dc-the-batman.jpg",
+    "source": "https://static.dc.com/2023-02/Movies-Thumb_TheBatman_2_6205b82ee37268.37925455-2.jpg?w=400",
+    "url": "https://www.dc.com/movies/the-batman"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Birds of Prey",
+    "year": 2020,
+    "image": "assets/movies/dc-birds-of-prey.jpg",
+    "source": "https://static.dc.com/2023-02/Movies-Thumb_BoP__5df1b6165d38c7.32399605.jpg?w=400",
+    "url": "https://www.dc.com/movies/birds-of-prey"
+  }
+]

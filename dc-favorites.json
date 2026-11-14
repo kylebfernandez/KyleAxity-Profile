@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Green Lantern",
+    "image": "assets/movies/green-lantern.jpg",
+    "url": "https://en.wikipedia.org/wiki/Green_Lantern_(film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/6/6b/Green_Lantern_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "kind": "Movie",
+    "id": "dc-favorite-0",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Superman · Henry Cavill",
+    "year": 2013,
+    "url": "https://en.wikipedia.org/wiki/Man_of_Steel_(film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/5/50/Man_of_Steel_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "image": "assets/movies/title-16.jpg",
+    "kind": "Film collection",
+    "note": "Henry Cavill’s Superman films",
+    "id": "dc-favorite-1",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-series",
+    "title": "The Flash",
+    "year": 2014,
+    "url": "https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/448/1121792.jpg",
+    "image": "assets/movies/title-24.jpg",
+    "kind": "Films & series",
+    "note": "All Flash",
+    "id": "dc-favorite-2",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-series",
+    "title": "Arrow",
+    "year": 2012,
+    "url": "https://en.wikipedia.org/wiki/Arrow_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
+    "image": "assets/movies/title-25.jpg",
+    "kind": "Series",
+    "id": "dc-favorite-3",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-series",
+    "title": "Titans",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Titans_(2018_TV_series)",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Titans_%282018_TV_series%29_logos.svg/500px-Titans_%282018_TV_series%29_logos.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image": "assets/movies/title-30.png",
+    "kind": "All seasons",
+    "id": "dc-favorite-4",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Batman",
+    "year": 2022,
+    "image": "assets/movies/dc-the-batman.jpg",
+    "source": "https://static.dc.com/2023-02/Movies-Thumb_TheBatman_2_6205b82ee37268.37925455-2.jpg?w=400",
+    "url": "https://www.dc.com/movies/the-batman",
+    "kind": "Films & series",
+    "note": "All Batman",
+    "id": "dc-favorite-5",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-movies",
+    "title": "Blue Beetle",
+    "year": 2023,
+    "image": "assets/movies/dc-blue-beetle.jpg",
+    "source": "https://static.dc.com/2023-07/Movies_Thumb_BlueBeetle_Txtd_Main_1sht_REV_BLBTL.jpg?w=400",
+    "url": "https://www.dc.com/movies/blue-beetle-2023",
+    "kind": "Movie",
+    "id": "dc-favorite-6",
+    "rank": "Favourite"
+  },
+  {
+    "title": "Suicide Squad",
+    "image": "assets/movies/suicide-squad.jpg",
+    "url": "https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)",
+    "source": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Suicide_Squad_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "kind": "Film collection",
+    "id": "dc-favorite-7",
+    "rank": "Favourite"
+  },
+  {
+    "category": "dc-series",
+    "title": "Peacemaker",
+    "year": 2022,
+    "url": "https://en.wikipedia.org/wiki/Peacemaker_(TV_series)",
+    "source": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1466413.jpg",
+    "image": "assets/movies/title-28.jpg",
+    "kind": "Series",
+    "id": "dc-favorite-8",
+    "rank": "Favourite"
+  }
+]

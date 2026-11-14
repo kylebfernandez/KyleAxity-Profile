@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://www.twitch.tv/kyleaxity",
+    "name": "Twitch",
+    "handle": "/ kyleaxity",
+    "logo": "assets/social-logos/twitch.png"
+  },
+  {
+    "url": "https://www.youtube.com/@KyleAxity",
+    "name": "YouTube",
+    "handle": "@KyleAxity",
+    "logo": "assets/social-logos/youtube.png"
+  },
+  {
+    "url": "https://www.tiktok.com/@kyleaxity",
+    "name": "TikTok",
+    "handle": "@kyleaxity",
+    "logo": "assets/social-logos/tiktok.png"
+  },
+  {
+    "url": "https://www.instagram.com/kyleaxityvt/",
+    "name": "Instagram",
+    "handle": "@kyleaxityvt",
+    "logo": "assets/social-logos/instagram.png"
+  },
+  {
+    "url": "https://x.com/KyleAxityVT",
+    "name": "Twitter / X",
+    "handle": "@KyleAxityVT",
+    "logo": "assets/social-logos/twitter-x.png"
+  },
+  {
+    "url": "https://discord.gg/g5N9KKaq53",
+    "name": "Discord Server",
+    "handle": "Join the community",
+    "logo": "assets/social-logos/discord.png"
+  },
+  {
+    "name": "Discord Username",
+    "handle": "KyleAxity#1104",
+    "logo": "assets/social-logos/discord.png"
+  },
+  {
+    "url": "https://www.facebook.com/kyleaxity",
+    "name": "Facebook · VTuber",
+    "handle": "/ kyleaxity",
+    "logo": "assets/social-logos/facebook-vtuber.png"
+  },
+  {
+    "url": "https://www.facebook.com/kyle.bfernandez",
+    "name": "Facebook · IRL",
+    "handle": "Kyle Ashley Balinong Fernandez",
+    "logo": "assets/social-logos/facebook-irl.png"
+  },
+  {
+    "url": "https://github.com/kylebfernandez",
+    "name": "GitHub",
+    "handle": "kylebfernandez",
+    "logo": "assets/social-logos/github.png"
+  },
+  {
+    "url": "https://vgen.co/KyleAxity",
+    "name": "VGen",
+    "handle": "/ KyleAxity",
+    "logo": "assets/social-logos/vgen.png"
+  },
+  {
+    "name": "Reddit",
+    "handle": "KyleAxity",
+    "url": "https://www.reddit.com/user/KyleAxity/",
+    "logo": "assets/social-logos/reddit.png"
+  },
+  {
+    "name": "Spotify",
+    "handle": "KyleAxity",
+    "url": "https://open.spotify.com/user/21eswg7trxo5apqnzcse4jxui",
+    "logo": "assets/social-logos/spotify.png"
+  },
+  {
+    "name": "Steam",
+    "handle": "KyleAxity",
+    "url": "https://steamcommunity.com/profiles/76561198437282077/",
+    "logo": "assets/social-logos/steam.png"
+  },
+  {
+    "name": "Riot Games",
+    "handle": "SFK KyleAxity#Ash",
+    "logo": "assets/social-logos/riot-games.png"
+  }
+]

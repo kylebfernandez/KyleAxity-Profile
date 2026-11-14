@@ -1,0 +1,1554 @@
+[
+  {
+    "id": "tier-0-0",
+    "title": "Loki — Season 1",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Loki",
+    "sprite": {
+      "x": 125,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-1",
+    "title": "Loki — Season 2",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Loki",
+    "sprite": {
+      "x": 217,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-2",
+    "title": "Doctor Strange",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Doctor%20Strange",
+    "sprite": {
+      "x": 309,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-3",
+    "title": "Captain America: Civil War",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20America%3A%20Civil%20War",
+    "sprite": {
+      "x": 401,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-4",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings",
+    "sprite": {
+      "x": 493,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-5",
+    "title": "Avengers: Infinity War",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Avengers%3A%20Infinity%20War",
+    "sprite": {
+      "x": 585,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-6",
+    "title": "Spider-Man: No Way Home",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man%3A%20No%20Way%20Home",
+    "sprite": {
+      "x": 677,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-0-7",
+    "title": "The Avengers",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Avengers",
+    "sprite": {
+      "x": 769,
+      "y": 1,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-0",
+    "title": "What If…? — Season 1",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=What%20If%E2%80%A6%3F",
+    "sprite": {
+      "x": 125,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-1",
+    "title": "Spider-Man: Far From Home",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man%3A%20Far%20From%20Home",
+    "sprite": {
+      "x": 217,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-2",
+    "title": "Hawkeye",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Hawkeye",
+    "sprite": {
+      "x": 309,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-3",
+    "title": "Avengers: Endgame",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Avengers%3A%20Endgame",
+    "sprite": {
+      "x": 401,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-4",
+    "title": "Spider-Man: Homecoming",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man%3A%20Homecoming",
+    "sprite": {
+      "x": 493,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-5",
+    "title": "Moon Knight",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Moon%20Knight",
+    "sprite": {
+      "x": 585,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-6",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness",
+    "sprite": {
+      "x": 677,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-7",
+    "title": "What If…? — Season 2",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=What%20If%E2%80%A6%3F",
+    "sprite": {
+      "x": 769,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-8",
+    "title": "What If…? — Season 3",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=What%20If%E2%80%A6%3F",
+    "sprite": {
+      "x": 861,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-9",
+    "title": "Spider-Man 2",
+    "rank": "Favourite",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man%202",
+    "sprite": {
+      "x": 953,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-1-10",
+    "title": "Vision Quest",
+    "rank": "Favourite",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Vision%20Quest",
+    "sprite": {
+      "x": 1045,
+      "y": 138,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-0",
+    "title": "WandaVision",
+    "rank": "S",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=WandaVision",
+    "sprite": {
+      "x": 125,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-1",
+    "title": "Captain America: The First Avenger",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20America%3A%20The%20First%20Avenger",
+    "sprite": {
+      "x": 217,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-2",
+    "title": "Avengers: Age of Ultron",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Avengers%3A%20Age%20of%20Ultron",
+    "sprite": {
+      "x": 309,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-3",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Guardians%20of%20the%20Galaxy%20Vol.%202",
+    "sprite": {
+      "x": 401,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-4",
+    "title": "Iron Man",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Iron%20Man",
+    "sprite": {
+      "x": 493,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-5",
+    "title": "Iron Man 2",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Iron%20Man%202",
+    "sprite": {
+      "x": 585,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-6",
+    "title": "Iron Man 3",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Iron%20Man%203",
+    "sprite": {
+      "x": 677,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-7",
+    "title": "Thor: Ragnarok",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thor%3A%20Ragnarok",
+    "sprite": {
+      "x": 769,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-8",
+    "title": "Daredevil",
+    "rank": "S",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Daredevil",
+    "sprite": {
+      "x": 861,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-9",
+    "title": "The Amazing Spider-Man",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Amazing%20Spider-Man",
+    "sprite": {
+      "x": 953,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-2-10",
+    "title": "The Amazing Spider-Man 2",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Amazing%20Spider-Man%202",
+    "sprite": {
+      "x": 1045,
+      "y": 276,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-0",
+    "title": "Venom: The Last Dance",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Venom%3A%20The%20Last%20Dance",
+    "sprite": {
+      "x": 125,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-1",
+    "title": "Deadpool 2",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Deadpool%202",
+    "sprite": {
+      "x": 217,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-2",
+    "title": "Deadpool",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Deadpool",
+    "sprite": {
+      "x": 309,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-3",
+    "title": "Deadpool & Wolverine",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Deadpool%20%26%20Wolverine",
+    "sprite": {
+      "x": 401,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-4",
+    "title": "Venom: Let There Be Carnage",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Venom%3A%20Let%20There%20Be%20Carnage",
+    "sprite": {
+      "x": 493,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-5",
+    "title": "Agatha All Along",
+    "rank": "S",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Agatha%20All%20Along",
+    "sprite": {
+      "x": 585,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-3-6",
+    "title": "The Fantastic Four: First Steps",
+    "rank": "S",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Fantastic%20Four%3A%20First%20Steps",
+    "sprite": {
+      "x": 677,
+      "y": 413,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-0",
+    "title": "Thor",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thor",
+    "sprite": {
+      "x": 125,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-1",
+    "title": "Black Panther",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Black%20Panther",
+    "sprite": {
+      "x": 217,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-2",
+    "title": "Captain America: The Winter Soldier",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20America%3A%20The%20Winter%20Soldier",
+    "sprite": {
+      "x": 309,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-3",
+    "title": "Guardians of the Galaxy",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Guardians%20of%20the%20Galaxy",
+    "sprite": {
+      "x": 401,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-4",
+    "title": "Ant-Man",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ant-Man",
+    "sprite": {
+      "x": 493,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-5",
+    "title": "Spider-Man",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man",
+    "sprite": {
+      "x": 585,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-6",
+    "title": "Spider-Man 3",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man%203",
+    "sprite": {
+      "x": 677,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-7",
+    "title": "Spider-Man",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Spider-Man",
+    "sprite": {
+      "x": 769,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-8",
+    "title": "Venom",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Venom",
+    "sprite": {
+      "x": 861,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-9",
+    "title": "Teenage Mutant Ninja Turtles",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Other",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Teenage%20Mutant%20Ninja%20Turtles",
+    "sprite": {
+      "x": 953,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-4-10",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ant-Man%20and%20the%20Wasp%3A%20Quantumania",
+    "sprite": {
+      "x": 1045,
+      "y": 551,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-0",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Guardians%20of%20the%20Galaxy%20Vol.%203",
+    "sprite": {
+      "x": 125,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-1",
+    "title": "Captain Marvel",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20Marvel",
+    "sprite": {
+      "x": 217,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-2",
+    "title": "Logan",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Logan",
+    "sprite": {
+      "x": 309,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-3",
+    "title": "X-Men: Apocalypse",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%3A%20Apocalypse",
+    "sprite": {
+      "x": 401,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-4",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Fantastic%20Four%3A%20Rise%20of%20the%20Silver%20Surfer",
+    "sprite": {
+      "x": 493,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-5",
+    "title": "Fantastic Four",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Fantastic%20Four",
+    "sprite": {
+      "x": 585,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-6",
+    "title": "Daredevil",
+    "rank": "A",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Daredevil",
+    "sprite": {
+      "x": 677,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-7",
+    "title": "Eyes of Wakanda",
+    "rank": "A",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Eyes%20of%20Wakanda",
+    "sprite": {
+      "x": 769,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-5-8",
+    "title": "Wonder Man",
+    "rank": "A",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Wonder%20Man",
+    "sprite": {
+      "x": 861,
+      "y": 688,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-0",
+    "title": "Thunderbolts*",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thunderbolts*",
+    "sprite": {
+      "x": 125,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-1",
+    "title": "Captain America: Brave New World",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Captain%20America%3A%20Brave%20New%20World",
+    "sprite": {
+      "x": 217,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-2",
+    "title": "Ms. Marvel",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ms.%20Marvel",
+    "sprite": {
+      "x": 309,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-3",
+    "title": "Thor: The Dark World",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thor%3A%20The%20Dark%20World",
+    "sprite": {
+      "x": 401,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-4",
+    "title": "The Falcon and the Winter Soldier",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Falcon%20and%20the%20Winter%20Soldier",
+    "sprite": {
+      "x": 493,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-5",
+    "title": "Thor: Love and Thunder",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thor%3A%20Love%20and%20Thunder",
+    "sprite": {
+      "x": 585,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-6",
+    "title": "Black Widow",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Black%20Widow",
+    "sprite": {
+      "x": 677,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-7",
+    "title": "The Punisher",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Punisher",
+    "sprite": {
+      "x": 769,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-8",
+    "title": "Eternals",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Eternals",
+    "sprite": {
+      "x": 861,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-9",
+    "title": "I Am Groot — Season 1",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=I%20Am%20Groot",
+    "sprite": {
+      "x": 953,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-6-10",
+    "title": "Morbius",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Morbius",
+    "sprite": {
+      "x": 1045,
+      "y": 825,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-0",
+    "title": "Black Panther: Wakanda Forever",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Black%20Panther%3A%20Wakanda%20Forever",
+    "sprite": {
+      "x": 125,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-1",
+    "title": "I Am Groot — Season 2",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=I%20Am%20Groot",
+    "sprite": {
+      "x": 217,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-2",
+    "title": "The Marvels",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Marvels",
+    "sprite": {
+      "x": 309,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-3",
+    "title": "Echo",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Echo",
+    "sprite": {
+      "x": 401,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-4",
+    "title": "Madame Web",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Madame%20Web",
+    "sprite": {
+      "x": 493,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-5",
+    "title": "X-Men",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men",
+    "sprite": {
+      "x": 585,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-6",
+    "title": "The Wolverine",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Wolverine",
+    "sprite": {
+      "x": 677,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-7",
+    "title": "X-Men Origins: Wolverine",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%20Origins%3A%20Wolverine",
+    "sprite": {
+      "x": 769,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-8",
+    "title": "X-Men: Days of Future Past",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%3A%20Days%20of%20Future%20Past",
+    "sprite": {
+      "x": 861,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-9",
+    "title": "X-Men: The Last Stand",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%3A%20The%20Last%20Stand",
+    "sprite": {
+      "x": 953,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-7-10",
+    "title": "X-Men: First Class",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%3A%20First%20Class",
+    "sprite": {
+      "x": 1045,
+      "y": 962,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-8-0",
+    "title": "Fantastic Four",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Fantastic%20Four",
+    "sprite": {
+      "x": 125,
+      "y": 1099,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-8-1",
+    "title": "Ironheart",
+    "rank": "B",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ironheart",
+    "sprite": {
+      "x": 217,
+      "y": 1099,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-8-2",
+    "title": "X2: X-Men United",
+    "rank": "B",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X2%3A%20X-Men%20United",
+    "sprite": {
+      "x": 309,
+      "y": 1099,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-0",
+    "title": "Ant-Man and the Wasp",
+    "rank": "C",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Ant-Man%20and%20the%20Wasp",
+    "sprite": {
+      "x": 125,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-1",
+    "title": "The Defenders",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Defenders",
+    "sprite": {
+      "x": 217,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-2",
+    "title": "Secret Invasion",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Secret%20Invasion",
+    "sprite": {
+      "x": 309,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-3",
+    "title": "Iron Fist",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Iron%20Fist",
+    "sprite": {
+      "x": 401,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-4",
+    "title": "Luke Cage",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Luke%20Cage",
+    "sprite": {
+      "x": 493,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-5",
+    "title": "Jessica Jones",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Jessica%20Jones",
+    "sprite": {
+      "x": 585,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-6",
+    "title": "She-Hulk: Attorney at Law",
+    "rank": "C",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=She-Hulk%3A%20Attorney%20at%20Law",
+    "sprite": {
+      "x": 677,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-7",
+    "title": "The Incredible Hulk",
+    "rank": "C",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20Incredible%20Hulk",
+    "sprite": {
+      "x": 769,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-9-8",
+    "title": "Kraven the Hunter",
+    "rank": "C",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Kraven%20the%20Hunter",
+    "sprite": {
+      "x": 861,
+      "y": 1237,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-0",
+    "title": "Marvel Studios: Legends",
+    "rank": "Didn’t watch",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Marvel%20Studios%3A%20Legends",
+    "sprite": {
+      "x": 125,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-1",
+    "title": "Werewolf by Night",
+    "rank": "Didn’t watch",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Werewolf%20by%20Night",
+    "sprite": {
+      "x": 217,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-2",
+    "title": "X-Men ’97",
+    "rank": "Didn’t watch",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%20%E2%80%9997",
+    "sprite": {
+      "x": 309,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-3",
+    "title": "Dark Phoenix",
+    "rank": "Didn’t watch",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=Dark%20Phoenix",
+    "sprite": {
+      "x": 401,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-4",
+    "title": "The New Mutants",
+    "rank": "Didn’t watch",
+    "kind": "Movie",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=The%20New%20Mutants",
+    "sprite": {
+      "x": 493,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  },
+  {
+    "id": "tier-10-5",
+    "title": "X-Men: The Animated Series",
+    "rank": "Didn’t watch",
+    "kind": "Series",
+    "brand": "Marvel",
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search=X-Men%3A%20The%20Animated%20Series",
+    "sprite": {
+      "x": 585,
+      "y": 1374,
+      "w": 90,
+      "h": 135,
+      "sourceWidth": 1140,
+      "sourceHeight": 1510
+    }
+  }
+]

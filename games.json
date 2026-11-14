@@ -117,5 +117,12 @@
     "url": "https://store.steampowered.com/app/2139460/",
     "image": "assets/games/once.jpg",
     "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/library_600x900_2x.jpg"
+  },
+  {
+    "id": "rivals",
+    "title": "Marvel Rivals",
+    "url": "https://store.steampowered.com/app/2767030/",
+    "image": "assets/games/rivals.jpg",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/library_600x900_2x.jpg"
   }
 ]

@@ -38,9 +38,9 @@
     const labels = { anime: 'Favorite anime', manga: 'Favorite manga', characters: 'Favorite characters', people: 'Favorite people', studios: 'Favorite studios' };
     content.append(el('h3', 'mal-cover-title', mode === 'favorites' ? labels[category] : category));
     if (!entries.length) { content.append(el('p', 'mal-empty', 'No public entries in this category.')); return; }
-    const pages = Math.ceil(entries.length / 4); page = Math.min(page, pages - 1);
+    const size = matchMedia('(min-width: 1001px)').matches ? 8 : 4; const pages = Math.ceil(entries.length / size); page = Math.min(page, pages - 1);
     const grid = el('div', 'mal-cover-grid');
-    entries.slice(page * 4, page * 4 + 4).forEach(entry => { const link = el('a', 'mal-cover-card'); link.href = safeLink(entry.url); link.target = '_blank'; link.rel = 'noopener noreferrer'; link.title = entry.title; link.append(picture(entry), el('strong', '', entry.title)); grid.append(link); });
+    entries.slice(page * size, page * size + size).forEach(entry => { const link = el('a', 'mal-cover-card'); link.href = safeLink(entry.url); link.target = '_blank'; link.rel = 'noopener noreferrer'; link.title = entry.title; link.append(picture(entry), el('strong', '', entry.title)); grid.append(link); });
     content.append(grid);
     if (pages > 1) { const pager = el('div', 'pager'); const prev = el('button', '', '←'), next = el('button', '', '→'); prev.setAttribute('aria-label', 'Previous MAL page'); next.setAttribute('aria-label', 'Next MAL page'); prev.disabled = page === 0; next.disabled = page === pages - 1; prev.addEventListener('click', () => { page--; render(); }); next.addEventListener('click', () => { page++; render(); }); pager.append(prev, el('span', '', (page + 1) + ' / ' + pages), next); content.append(pager); }
   }
@@ -68,6 +68,9 @@
   select.addEventListener('change', () => { page = 0; render(); }); refresh.addEventListener('click', syncLive);
   document.querySelector('[data-view="anime"]').addEventListener('click', initialize);
   addEventListener('hashchange', () => { if (location.hash === '#anime') initialize(); });
-  if (location.hash === '#anime') initialize();
+  addEventListener('profile:view',event=>{if(event.detail==='anime')initialize()}); if (location.hash === '#anime') initialize();
 })();
+
+
+
 
